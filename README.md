@@ -4,7 +4,7 @@
 
 **SYSTEM ONLINE // v21.0.0 (TITAN ACTIVE)**
 
-I am a developer with a unique background bridging physical microchip diagnostics (Layer 1) and enterprise cloud architecture. I don't just tell you I can code—I built an **"Unkillable"** self-healing cloud infrastructure to show you.
+I am a developer with a unique background bridging physical microchip diagnostics (Layer 1) and enterprise cloud architecture. I don't just tell you I can code. I built an **"Unkillable"** self-healing cloud infrastructure to show you.
 
 FORMER **CFL Professional Athlete** (Edmonton Elks) turned Systems Engineer. I bring elite discipline and adaptability to technical problem-solving.
 
