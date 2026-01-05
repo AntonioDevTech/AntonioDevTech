@@ -1,66 +1,56 @@
-# Hi, I'm Antonio Alfano! 👋
+# Welcome, my name is Antonio Alfano 👋
 
 > **Hybrid Cloud Engineer | Hardware Specialist | Offensive Security**
 
-**SYSTEM ONLINE // v21.0.0 (TITAN ACTIVE)**
+I bridge the gap between physical microchip diagnostics (Layer 1) and enterprise cloud architecture. **Former CFL Professional Athlete** (Edmonton Elks) turned Systems Engineer. I bring elite discipline to building "Unkillable" self-healing infrastructure.
 
-I am a developer with a unique background bridging physical microchip diagnostics (Layer 1) and enterprise cloud architecture. I don't just tell you I can code. I built an **"Unkillable"** self-healing cloud infrastructure to show you.
-
-FORMER **CFL Professional Athlete** (Edmonton Elks) turned Systems Engineer. I bring elite discipline and adaptability to technical problem-solving.
+[![Status](https://img.shields.io/badge/System-Online-success?style=flat-square)]() [![Stack](https://img.shields.io/badge/Tech-Hybrid_Cloud-blue?style=flat-square)]() [![Focus](https://img.shields.io/badge/Focus-High_Availability-violet?style=flat-square)]()
 
 ---
 
-## 👨‍💻 Engineering Projects
+## 👨‍💻 Featured Engineering Projects
 
-### **🛡️ Project Titan: Autonomous Cloud Defense System**
-*(Live Demo: [titanalfapro.org](https://titanalfapro.org))*
+### **🛡️ [Project Titan: Autonomous Cloud Defense](https://github.com/AntonioDevTech/Project-Titan-Portfolio)**
+**Status:** *Live Production System* | **Role:** *Lead Architect*
 
-This isn't a static template. I architected a live, combat-tested **Edge-to-Cloud Infrastructure** that is "Unkillable."
-* **The Architecture:** Built entirely using **Terraform (IaC)** on **Microsoft Azure**, running on **Ubuntu Linux**.
-* **The AI Daemon:** I engineered 'Titan', a custom AI security daemon (Python/Bash) that monitors the network layer in real-time. It actively hunts attackers and dynamically generates firewall rules to neutralize threats instantly.
-* **Self-Healing:** Decoupled software from physical hardware to ensure 100% uptime. If a service crashes or is attacked, the kernel intercepts the signal and executes an immediate respawn (<500ms).
-* **Tech Stack:** `Terraform` `Azure Cloud` `Ubuntu Linux` `Bash` `PowerShell` `C#` `SQL` `Python` `Llama 3.2 AI`
+A self-healing hybrid cloud infrastructure designed to survive active network attacks without human intervention.
+* **Defense Logic:** Custom Python/Bash daemon monitors active connections (`netstat`) and system logs. It uses local AI to detect anomalies and dynamically updates `iptables` firewalls to block IPs in real-time.
+* **Infrastructure:** Orchestrated via **Terraform** on **Azure**. Decoupled storage ensures 100% data persistence even if compute nodes are terminated.
+* **Self-Healing:** Systemd process supervision intercepts kill signals and executes immediate service respawns (<500ms).
+* **Stack:** `Terraform` `Azure` `Python` `Bash` `Llama 3.2` `Linux (Ubuntu)`
 
-### **⚡ Miner Control Center (MCC)**
-*(Download App: [GitHub Release](https://github.com/AntonioDevTech/MinerControlCenter))*
+### **⚡ [Miner Control Center (MCC)](https://github.com/AntonioDevTech/MinerControlCenter)**
+**Status:** *v1.0 Released* | **Role:** *Sole Developer*
 
-A high-frequency desktop telemetry engine designed to solve vendor fragmentation in crypto mining.
-* **Raw TCP Sockets:** Bypasses slow HTTP web interfaces by speaking raw TCP (Port 4028) directly to ASIC firmware for sub-second monitoring.
-* **Universal Regex Engine:** I wrote a custom parser that normalizes messy data strings from **Antminers** and JSON from **Whatsminers** into a single unified dashboard.
-* **Thermal Safety:** Includes an asynchronous watchdog that triggers emergency "Power Down" packets if chip temps exceed 85°C.
-* **Tech Stack:** `C# .NET 8` `TCP/IP Sockets` `Regex` `SQLite` `Async/Await`
+A high-frequency desktop telemetry engine that solves vendor fragmentation in ASIC mining fleets.
+* **Core Engineering:** Bypasses standard HTTP interfaces to establish **Raw TCP Socket** connections (Port 4028) directly to firmware.
+* **Data Normalization:** Custom Regex engine standardizes unstructured string data from **Antminers** and JSON streams from **Whatsminers** into a unified C# object model.
+* **Safety:** Asynchronous "Watchdog" thread polls thermal sensors and triggers emergency shutdowns if temps exceed 85°C.
+* **Stack:** `C# .NET 8` `TCP/IP` `WPF` `SQLite` `Regex`
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
-**Cloud & Infrastructure**
-* **Microsoft Azure:** VM Scaling, NSG Hardening, VNet Topology
-* **Infrastructure as Code:** Terraform (Automated State Management)
-* **OS & Scripting:** Ubuntu Linux, Bash Scripting, PowerShell Automation
-
-**Software Development**
-* **Languages:** C# .NET 8, Python, SQL
-* **Networking:** Raw TCP/IP Socket Programming, JSON-RPC, Reverse Proxies (Nginx)
-* **AI:** Local LLM Deployment (Llama 3.2 Vision), RAG Integration
-
-**Hardware Engineering**
-* **ASIC Diagnostics:** Antminer & Whatsminer Repair
-* **Micro-Soldering:** Precision BGA/SMD Rework
-* **Thermal:** Kernel Log Analysis & High-Density Power Balancing
+| Domain | Technologies |
+| :--- | :--- |
+| **Cloud & Infra** | **Azure** (VMs, VNet, NSG), **Terraform** (IaC), **Docker**, **Nginx** |
+| **Development** | **C# .NET 8**, **Python**, **Bash**, **SQL**, **PowerShell** |
+| **Hardware** | **ASIC Repair** (Micro-soldering), **Kernel Log Analysis**, **Thermal Engineering** |
+| **Security** | **Offensive Scripting**, **Network Hardening**, **Automated Remediation** |
 
 ---
 
 ## 📜 Certifications
 
 * **Microsoft Certified:** Azure Fundamentals (AZ-900)
-* *Pending:* Azure Administrator Associate (AZ-104)
+* *In Progress:* Azure Administrator Associate (AZ-104)
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
-* 🌐 **Portfolio:** [titanalfapro.org](https://titanalfapro.org)
+* 🌐 **Live Portfolio:** [titanalfapro.org](https://titanalfapro.org)
 * 💼 **LinkedIn:** [linkedin.com/in/antonio-alfano-273162358](https://www.linkedin.com/in/antonio-alfano-273162358)
 * 📧 **Email:** [AntonioAlfano123456@gmail.com](mailto:AntonioAlfano123456@gmail.com)
 
